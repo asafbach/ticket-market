@@ -12,5 +12,6 @@ _work still in progress..._
 * TypeScript
 * Docker
 * K8s
+* NATS
 
 
