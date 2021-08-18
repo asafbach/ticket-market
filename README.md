@@ -1,6 +1,6 @@
 # Ticket-Market
 
-Marketplace for trading concert tickets.
+Marketplace for trading concert tickets.  
 Built using microservices best practices
 
 ### stack
