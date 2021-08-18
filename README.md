@@ -4,7 +4,7 @@
 A marketplace where people can sell their concert tickets.  
 Built using microservices best practices.
 
-_work still in progress_
+_work still in progress..._
 
 ### stack
 * Node.js
