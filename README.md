@@ -1,7 +1,10 @@
 # Ticket-Market
 
-Marketplace for trading concert tickets.  
-Built using microservices best practices
+## About
+A marketplace where people can sell their concert tickets.  
+Built using microservices best practices.
+
+_work still in progress_
 
 ### stack
 * Node.js
