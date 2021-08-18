@@ -13,6 +13,14 @@ const LandingPage = ({currentUser, tickets}) => {
       </tr>
     );
   })
+  if(!ticketList.length){
+    return (
+    <div>
+      <h1> Tickets </h1>
+      <div> No Ticket Found</div>
+      </div>
+    );
+  }
   return (
     <div>
       <h1> Tickets </h1>
@@ -24,9 +32,7 @@ const LandingPage = ({currentUser, tickets}) => {
             <th></th>
           </tr>
         </thead>
-        <tbody>
-          {ticketList.length ? ticketList : <h4>No Tickets Found</h4>}
-        </tbody>
+        <tbody>{ticketList}</tbody>
       </table>
     </div>
   );
