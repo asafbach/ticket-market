@@ -1,7 +1,7 @@
 # Ticket-Market
 
 ## About
-A marketplace where people can sell their concert tickets.  
+A marketplace where people can sell and buy concert tickets.  
 Built using microservices best practices.
 
 _work still in progress..._
