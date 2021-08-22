@@ -9,7 +9,7 @@ _work still in progress..._
 ### stack
 * Node.js
 * Next.js
-* mongDB
+* mongoDB
 * TypeScript
 * Docker
 * K8s
